@@ -1,12 +1,10 @@
 {
-  "date": "2026-10-24",
-  "previousDate": "2026-09-19",
+  "date": "2026-11-23",
+  "previousDate": "2026-10-24",
   "added": [
-    "RTX PRO 4500 Blackwell Server",
-    "RTX PRO 6000 Blackwell Workstation",
-    "RTX Spark N1X 6144-Core Blackwell GPU",
-    "Radeon PRO W7900 Dual Slot",
-    "Radeon RX 9050"
+    "RTX PRO 4000 Blackwell Embedded",
+    "RTX Spark N1X 5120-Core Blackwell GPU",
+    "Radeon PRO W7800 48 GB"
   ],
   "removed": []
 }
